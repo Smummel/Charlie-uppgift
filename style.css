@@ -4,8 +4,14 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 body{
     height: 100vh;
     width: 100%;
+}
+.topthing{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    height: 10rem;
+    background-color: crimson;
 }
