@@ -16,7 +16,7 @@ body{
     background-color: crimson;
     display: flex;
     justify-content: center;
-    align-items: baseline;
+    align-items: end;
 }
 .about, .signup{
     font-size: 3rem;
