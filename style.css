@@ -15,12 +15,15 @@ body{
     height: 10rem;
     background-color: crimson;
     display: flex;
-    justify-content: baseline;
-    align-items: center;
+    justify-content: center;
+    align-items: baseline;
 }
 .about, .signup{
     font-size: 3rem;
     color: white;
     font-weight: bold;
     font-family: sans-serif;
+    background-color: black;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
 }
