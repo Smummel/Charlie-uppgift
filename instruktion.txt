@@ -1,0 +1,5 @@
+Ett företag vill ha en webbplats.
+De vill ha en prototyp till webbplatsen och dess utseende. Företaget håller på med att ge företag och organisationer en funktion för att anordna olika evenemang. Man ska kunna anmäla sig och ange kostavvikelser.
+Man vill också ha exempel på hur adminsidan kan se ut där man lägger in evenemang.
+Ni skall alltså bara göra en visuell prototyp, endast utseende inga eller minimalt med funktioner.
+Gör exemplet i vscode och synka med GitHub.
