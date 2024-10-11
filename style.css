@@ -1,0 +1,60 @@
+*{
+    outline: 1px dotted red;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.top{
+    height: 8rem;
+    background-color: crimson;
+    width: 100%;
+    display: flex;
+    --justify-content: center;
+    align-items: center;
+}
+#name{
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 2rem;
+}
+.buttons{
+    height: 4rem;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#button1, #button2{
+    color: white;
+    padding: .5rem;
+    margin-left: 2.5rem;
+    outline: .2rem white solid;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 0.5rem;
+}
+.bottom{
+    position: absolute;
+    height: 3rem;
+    background-color: black;
+    width: 100%;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+}
